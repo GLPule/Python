@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+
+# Large datasets
+data/transactions.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python environment files
+.env
