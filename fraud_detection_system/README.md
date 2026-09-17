@@ -63,9 +63,10 @@ The application loads the trained model pipeline from the pickle file and predic
 
 ## Screenshots
 
-![Fraud Detection App](screenshots/Non-Fraud.JPG)
-
-![Fraud Detection App](screenshots/Fraud.JPG)
+<p>
+  <img src="screenshots/Non-Fraud.JPG" alt="Non-Fraud Prediction" width="45%">
+  <img src="screenshots/Fraud.JPG" alt="Fraud Prediction" width="45%">
+</p>
 
 ## Data
 
