@@ -61,6 +61,12 @@ The application loads the trained model pipeline from the pickle file and predic
 - Prediction result `1` indicates likely fraud
 - Prediction result `0` indicates likely legitimate transaction
 
+## Screenshots
+
+![Fraud Detection App](screenshots/Non-Fraud.JPG)
+
+![Fraud Detection App](screenshots/Fraud.JPG)
+
 ## Data
 
 The dataset in the `data/` folder contains transaction records used for analysis and model creation. It is intended for demonstration and educational purposes.

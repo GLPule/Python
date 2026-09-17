@@ -35,4 +35,4 @@ if st.button("Predict"):
     if prediction == 1:
         st.error("This transaction can be fraud")
     else:
-        st.error("This transaction looks like it is not a fraud")
+        st.success("This transaction looks like it is not a fraud")
